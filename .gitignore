@@ -1,1 +1,3 @@
 essay_grader/.env
+.DS_Store
+essay_grader/grading_results.csv
